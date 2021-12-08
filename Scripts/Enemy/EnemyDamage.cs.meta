@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 653a03dad0a5e9f47b2e0f31842b73e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - HMatChange: {instanceID: 0}
+  - NewHeart: {fileID: 4583754368558701757, guid: cef1cd9ad0fef9a4d8035bc66b532064, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
