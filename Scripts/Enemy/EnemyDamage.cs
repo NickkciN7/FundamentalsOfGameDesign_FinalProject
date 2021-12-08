@@ -31,7 +31,7 @@ public class EnemyDamage : MonoBehaviour
 
 
     [SerializeField] private GameObject NewHeart;
-    private int HeartGenerationChance = 100;
+    private int HeartGenerationChance = 40;
 
 
     public bool BossDead = false;
